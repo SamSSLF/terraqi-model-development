@@ -1,0 +1,9 @@
+*.grib
+*.nc
+*.idx
+*Zone.Identifier
+venv/
+secret_key.pem
+.vscode/
+__pycache__/
+```
