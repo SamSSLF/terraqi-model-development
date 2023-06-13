@@ -52,7 +52,8 @@ To set up your environment and install the required dependencies, follow these s
 
     ```shell
     conda install -c conda-forge cfgrib
-
+    ```
+    
 ## Usage
 1. Download data from ECMWF
 2. Choose the terraqi Python interpreter in VS Code and open jupyter notebooks from within VS Code.
